@@ -74,12 +74,10 @@ Send anonymous votes to lection rating:
 
 ![leciton rating vote](gif/rating_vote_small.gif)
 
-> All ratings are anonymous.
-
 Note: This is prototype of architecture, not sample of production UI or API.
 
 ## Thanks ♥️
 
-Big thanks to @ekral for management of this bachelor thesis.
+Big thanks to [@ekral](https://github.com/ekral) for management of this bachelor thesis.
 
 Also thanks to Tomas Bata Univesity in Zlin - Faculty of Applied Informatics for whole education. ![utb_logo](img/ikona40.png)
